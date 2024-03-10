@@ -1,0 +1,15 @@
+Manager
+StoreIndomaret
+Kazuya Mishima
+8000.00
+50.0
+10.0
+20000.0
+70000.0
+Sales Associate
+StoreAlfamart
+Jin Kazama
+20.0
+4000.0
+1700.0
+20.0
